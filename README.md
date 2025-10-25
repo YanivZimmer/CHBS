@@ -45,7 +45,7 @@ This produces a soft, differentiable band-selection mask that becomes nearly dis
 ---
 
 ## ⚙️ Installation
-git clone https://github.com/<your-username>/CHBS.git
+git clone https://github.com/YanivZimmer/CHBS.git
 cd CHBS
 pip install -r requirements.txt
 
